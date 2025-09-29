@@ -1,0 +1,87 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(120deg, #d6b8ff, #f3e6ff); /* light purple gradient */
+    margin: 0;
+    padding: 0;
+}
+
+.login-container, .student-container {
+    max-width: 500px;
+    margin: 80px auto;
+    background: #fff;
+    padding: 30px 40px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+h1 { 
+    margin-bottom: 25px; 
+    color: #5a3e85; /* softer purple heading */
+}
+
+input {
+    width: 90%;
+    padding: 12px;
+    margin: 10px 0;
+    border: 2px solid #b388eb; /* light purple border */
+    border-radius: 10px;
+    background: #faf7ff; /* subtle lavender input bg */
+}
+
+button {
+    padding: 12px 18px;
+    background: linear-gradient(45deg, #b388eb, #d6b8ff); /* lighter purple gradient */
+    border: none;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover { 
+    background: linear-gradient(45deg, #d6b8ff, #b388eb); 
+}
+
+.error { 
+    color: #d63031; 
+    margin-top: 10px; 
+}
+
+.table-container { 
+    overflow-x: auto; 
+    margin-top: 20px; 
+}
+
+table { 
+    width: 100%; 
+    border-collapse: collapse; 
+}
+
+th, td { 
+    padding: 12px; 
+    border: 1px solid #ddd; 
+    text-align: center; 
+}
+
+th { 
+    background: #b388eb; /* light purple header */
+    color: white; 
+}
+
+.no-result { 
+    color: #d63031; 
+    font-weight: bold; 
+    margin-top: 20px; 
+}
+
+.search-box { 
+    display: flex; 
+    justify-content: center; 
+    gap: 10px; 
+    margin-bottom: 25px; 
+}
+
+.search-box input { 
+    width: 60%; 
+}
