@@ -1,10 +1,27 @@
-## Student Result Management System
+## Student Portal
 
-## Features
-- Admin Login (Username: teacher, Password: admin123)
-- CRUD operations for student results
-- Student portal to search results by roll number
-- Modern CSS-only interface
+## ✨ Features
+
+- **Secure Admin Login**  
+  - Quick access for administrators.  
+  - Admin Login: Username: **teacher  Password: admin123** (change on deployment).  
+
+- **Full CRUD for Student Results**  
+  - Effortlessly add, view, edit, and delete student records and marks.  
+  - Inline validation and user-friendly error messages.  
+
+- **Student Portal — Instant Search**  
+  - Students enter their roll number to retrieve results instantly.  
+  - Optimized for mobile and desktop — searchable, paginated, and printable reports.  
+
+- **Modern CSS-Only Interface**  
+  - Clean typography, soft light-purple theme, and subtle animations — no heavy JS frameworks required.  
+  - Accessible, responsive design with focus states and keyboard support.  
+
+- **Polished UX Touches**  
+  - Confirmations for destructive actions, success toasts, and empty-state illustrations.  
+  - Export/Print-friendly result view for official use.  
+
 
 ## How to Run
 1. Install XAMPP on your computer.
