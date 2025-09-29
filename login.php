@@ -35,6 +35,7 @@ if (isset($_POST['login'])) {
         <button type="submit" name="login">Login</button>
     </form>
     <?php if(isset($error)) echo "<p class='error'>$error</p>"; ?>
+    
 </div>
 </body>
 </html>
