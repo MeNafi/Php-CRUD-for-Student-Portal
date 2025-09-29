@@ -5,7 +5,7 @@
 - **Secure Admin Login**  
   - Quick access for administrators.  
   - Admin Login: **Username: teacher and Password: admin123** (change on deployment).
-  - Database Name: **student_db
+  - Database Name: **student_db**
 
 - **Full CRUD for Student Results**  
   - Effortlessly add, view, edit, and delete student records and marks.  
