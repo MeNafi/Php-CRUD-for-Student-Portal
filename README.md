@@ -13,7 +13,7 @@
 
 - **Student Portal — Instant Search**  
   - Students enter their roll number to retrieve results instantly.  
-  - Optimized for mobile and desktop — searchable, Organized and printable reports.  
+  - Optimized for mobile and desktop — searchable, organized and printable reports.  
 
 - **Modern CSS-Only Interface**  
   - Clean typography, soft light-purple theme, and subtle animations — no heavy JS frameworks required.  
