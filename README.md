@@ -8,12 +8,12 @@
   - Database Name: **student_db**
 
 - **Full CRUD for Student Results**  
-  - Effortlessly add, view, edit, and delete student records and marks.  
+  - Easily add, view, edit, and delete student records and marks.  
   - Inline validation and user-friendly error messages.  
 
 - **Student Portal — Instant Search**  
   - Students enter their roll number to retrieve results instantly.  
-  - Optimized for mobile and desktop — searchable, paginated, and printable reports.  
+  - Optimized for mobile and desktop — searchable, Organized and printable reports.  
 
 - **Modern CSS-Only Interface**  
   - Clean typography, soft light-purple theme, and subtle animations — no heavy JS frameworks required.  
